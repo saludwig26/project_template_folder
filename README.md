@@ -2,7 +2,7 @@
 
 0. *if you are reading on Github*, clone or download this repository to your computer.
 1. rename the folder `project_template_folder` to the name of your project (please avoid spaces in the name of the folder).
-2. compile the `INFO.md` file with title, description, students name, course and semester
+2. complete the `INFO.md` file with title, description, students name, course and semester
 3. upload the required documents:
    * the code (one or more notebooks or python code) in the `code` folder. Inside the folder there is already a notebook with some informations. Please make sure to check it and start from there.
    * a picture of `200x200 pixels` that represent your project in the `preview` folder. It will be used as a preview for the online visualization.
