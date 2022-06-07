@@ -3,23 +3,21 @@
 ## description:
 replace this text with description (short description, not more than 200 characters)
 
-
 ### participants:
-replace this text with the name and surnames of all the students who participated
-
+Christian Mayer
+Sabrina Ludwig
 
 ### contact information:
-replace this text with the contact information: a mail or a place to find information
+sabrina.ludwig@uni-mannheim.de
 
 ### course:
-replace this text with the name of the course, please copy it from the website
-
+Deep Learning from Scratch
 
 ### semester:
-replace this text with semester and year in the form "SoSe2021" or "WiSe2122" (SoSe only have one year, WiSe always has 2 years, so just two numbers per year)
+SoSe2022
 
 ### data:
-replace this text with short information about the data? was it personal, available online, from a company?
+Kaggle Dataset
 
 ### website:
 does your project have a website/webapp? otherwise the project folder will link only to the code (if you add a website there will be two links)
