@@ -1,4 +1,4 @@
-# replace this text with your title (it will be automatically copied and used for the online visualization)
+# Text classification ArXiv
 
 ## description:
 replace this text with description (short description, not more than 200 characters)
